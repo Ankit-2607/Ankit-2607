@@ -79,4 +79,7 @@ I'm passionate about building web applications and solving coding problems using
 
 ---
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ankit+Kumar;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 ⭐ Thanks for visiting my profile!
