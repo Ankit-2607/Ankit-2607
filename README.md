@@ -39,37 +39,56 @@ I'm passionate about building web applications and solving coding problems using
 
 ## 🚀 Projects
 
+<table>
+<tr>
+
+<td align="center" width="50%">
+
 ### 📚 Digital Library
-- User Authentication
-- Search Books
-- Wishlist
-- Profile
-- Responsive UI
+
+Modern e-Library application.
+
+✔ User Authentication  
+✔ Search Books  
+✔ Wishlist  
+✔ Profile  
+✔ Responsive UI
+
+</td>
+
+<td align="center" width="50%">
 
 ### 🌾 Wheat Disease Detection
-- CNN based Disease Detection
-- Image Classification
-- Deep Learning
 
+AI-powered disease prediction system.
+
+✔ CNN Model  
+✔ Image Classification  
+✔ Deep Learning
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📈 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit-2607&show_icons=true&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-2607&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🔥 GitHub Streak
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit-2607&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankit-2607&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-2607&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-2607&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📫 Connect with Me
 
@@ -79,7 +98,14 @@ I'm passionate about building web applications and solving coding problems using
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ankit+Kumar;💻+Full+Stack+Developer;🧩+DSA+Enthusiast;🚀+Always+Learning+New+Things"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ankit+Kumar;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ⭐ Thanks for visiting my profile!
